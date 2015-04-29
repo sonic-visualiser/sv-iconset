@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 32 32"
-   sodipodi:docname="rewind.svg"
+   sodipodi:docname="ffwd.svg"
    inkscape:export-filename="/home/cannam/code/sv-iconset/cross-16.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="15.681564"
+     inkscape:cx="20.197405"
      inkscape:cy="16"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,13 +71,13 @@
      inkscape:groupmode="layer">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20314026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16,9 16,23 5,16 Z"
+       d="m 16,9 0,14 11,-7 z"
        id="path3778"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20314026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 25,9 25,23 14,16 Z"
+       d="M 7,9 7,23 18,16 Z"
        id="path3778-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
