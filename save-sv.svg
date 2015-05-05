@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="17.252771"
+     inkscape:cx="8.8359406"
      inkscape:cy="16.096086"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,8 +52,8 @@
      inkscape:object-nodes="true"
      inkscape:window-width="1727"
      inkscape:window-height="1273"
-     inkscape:window-x="515"
-     inkscape:window-y="145"
+     inkscape:window-x="659"
+     inkscape:window-y="152"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,8 +80,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#3197c8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 4.5,6 0,20 1,1 0.5,0.5 20,0 1,-1 0.5,-0.5 0,-18.5 -3,-3 L 6,4.5 5.5,5 Z"
+       style="fill:#c1e9f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.5,6 0,20 0,1.5 1.5,0 20,0 1.5,0 0,-1.5 0,-18.5 -3,-3 -18.5,0 -1.5,0 z"
        id="path4263"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
@@ -93,14 +93,14 @@
        x="7.5"
        y="14.5" />
     <rect
-       style="fill:#3e3e3e;fill-opacity:1;stroke:none;stroke-width:1.06904495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:1.06904495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4273"
        width="13"
        height="9"
        x="10"
        y="4" />
     <rect
-       style="fill:#3197c8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#c1e9f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4275"
        width="4"
        height="6"
@@ -108,7 +108,7 @@
        y="5" />
     <g
        id="g4531"
-       transform="matrix(0.29415486,0,0,0.30101618,18.201576,12.430294)">
+       transform="matrix(0.34319028,0,0,0.35119538,18.481139,10.947291)">
       <path
          id="path4036"
          d="m -19.594701,28.51472 c 23.5947012,0 23.5947012,0 23.5947012,0"
