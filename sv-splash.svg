@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="640px"
-   height="480px"
+   width="584"
+   height="322"
    id="svg1952"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -29,19 +29,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="327.81366"
-     inkscape:cy="240"
+     inkscape:cx="242.26215"
+     inkscape:cy="171.59109"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="2426"
      inkscape:window-height="1265"
-     inkscape:window-x="309"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0">
+     inkscape:window-x="13"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid6046" />
+       id="grid6046"
+       originx="-26"
+       originy="-103.00001" />
   </sodipodi:namedview>
   <metadata
      id="metadata1957">
@@ -51,45 +57,44 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-26,-55)">
     <rect
-       style="fill:white;fill-opacity:1;stroke:black;stroke-width:5.70384979;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.70384979;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3849"
        width="578.29614"
        height="316.29614"
        x="28.851925"
        y="57.851925" />
-    <g
-       id="g6036"
-       transform="matrix(7.533003,0,0,7.533003,-3145.8959,-1603.7833)">
-      <path
-         id="path4036-8"
-         d="m 447.89298,237.50703 c 23.5947,0 23.5947,0 23.5947,0"
-         style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccscccsccsccc"
-         id="path3783-4"
-         d="m 448.17706,237.50751 c 2.83439,0 3.14652,-0.0118 3.14652,-0.0118 0.36115,0.19575 0.97799,-1.32677 1.4199,-3.13096 0.5637,-2.3014 0.93513,-4.56906 1.45715,2.23199 1.00113,13.2555 1.35679,5.41685 2.04538,0.66103 1.58659,-15.36587 1.74817,-9.58952 2.08424,-6.35874 1.29226,15.97784 1.23651,19.55858 1.92726,14.25205 0.51334,-3.94354 2.04111,-20.56676 2.31506,-15.98439 1.9054,18.21298 2.2459,17.13857 2.83124,12.4579 0.67124,-3.92256 1.0936,-6.755 1.44277,-7.95216 0.62358,-2.13801 1.19573,1.76137 1.19573,1.76137 0.35735,2.43538 0.95725,2.18279 0.95725,2.18279 l 2.75041,-0.0316"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.35599995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.39999998;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none" />
-      <rect
-         y="225.00458"
-         x="447.47052"
-         height="24.915606"
-         width="25.004908"
-         id="rect3775-0"
-         style="fill:none;stroke:#d45500;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:7.53300285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 228.08326,185.35787 177.73895,0"
+       id="path4036-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.21475124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.39999998;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
+       d="m 230.22324,185.36149 c 21.35147,0 23.70274,-0.0889 23.70274,-0.0889 2.72055,1.47458 7.3672,-9.99457 10.69611,-23.58554 4.24636,-17.33645 7.04434,-34.41874 10.97672,16.81359 7.54151,99.85372 10.2207,40.80515 15.40785,4.97954 11.95179,-115.751142 13.16897,-72.23788 15.70059,-47.9004 9.7346,120.36111 9.31463,147.33484 14.51805,107.36073 3.867,-29.7067 15.37569,-154.929464 17.43936,-120.41046 14.35338,137.19844 16.91837,129.1049 21.32774,93.8454 5.05645,-29.54865 8.57895,-50.79293 10.86839,-59.90364 4.13921,-16.4718 9.00744,13.2684 9.00744,13.2684 5.13177,15.2598 8.62517,16.08942 8.62517,16.08942 l 19.30464,0.1155"
+       id="path3783-4"
+       sodipodi:nodetypes="ccscccsccsccc"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#d45500;stroke-width:15.06600571;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3775-0"
+       width="188.36205"
+       height="187.68933"
+       x="224.90086"
+       y="91.176857" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Korataki"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Korataki;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="59"
        y="330"
        id="text2049"
@@ -100,7 +105,7 @@
          y="330">SONIC VISUALISER</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Korataki"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:Korataki;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="84.300003"
        y="352"
        id="text2053"
