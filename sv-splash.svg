@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="242.26215"
-     inkscape:cy="171.59109"
+     inkscape:cx="288.38759"
+     inkscape:cy="170.62826"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -42,7 +42,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid6046"
@@ -95,24 +96,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Korataki;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="59"
+       x="240.5"
        y="330"
        id="text2049"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2051"
-         x="59"
-         y="330">SONIC VISUALISER</tspan></text>
+         x="240.5"
+         y="330">VISUALISER</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:Korataki;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="84.300003"
+       x="80.300003"
        y="352"
        id="text2053"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan2055"
-         x="84.300003"
+         x="80.300003"
          y="352">QUEEN MARY, UNIVERSITY OF LONDON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Korataki;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.093563"
+       y="329.85049"
+       id="text2049-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2051-2"
+         x="57.093563"
+         y="329.85049">SONIC</tspan></text>
   </g>
 </svg>
