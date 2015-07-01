@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="8.1743522"
+     inkscape:cx="-0.15317493"
      inkscape:cy="16.096086"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,7 +86,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4232-3"
        sodipodi:type="arc"
        sodipodi:cx="22.285803"
@@ -99,13 +99,13 @@
        d="m 24.472682,19.262034 a 2.6151989,3.4020329 0 0 1 -0.751371,4.709356 2.6151989,3.4020329 0 0 1 -3.620621,-0.974539 2.6151989,3.4020329 0 0 1 0.746916,-4.710555 2.6151989,3.4020329 0 0 1 3.62154,0.968743"
        transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,0,0)" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.54999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.55;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.006987,8.4396082 23.738448,9.1774137 C 22.951075,11.340702 19.796795,14.776052 16.657005,16.9383 14.020213,18.754154 12,19.5 12,19.5 Z"
        id="path4268-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4232-3-7"
        sodipodi:type="arc"
        sodipodi:cx="-18.969179"
