@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 32 32"
-   sodipodi:docname="loop.svg"
+   sodipodi:docname="playloop.svg"
    inkscape:export-filename="/home/cannam/code/sv-iconset/cross-16.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="18.112905"
+     inkscape:cx="9.6960746"
      inkscape:cy="16"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,7 +70,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       transform="matrix(0.38384788,0,0,0.38384788,3.7404732,3.6970454)"
+       transform="matrix(0.34382206,0,0,0.34382206,5.1538747,5.1149754)"
        id="g5767">
       <path
          sodipodi:open="true"
