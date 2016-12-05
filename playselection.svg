@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="7.2647336"
+     inkscape:cx="22.374376"
      inkscape:cy="16"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,10 +40,10 @@
      objecttolerance="20"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:window-width="1727"
+     inkscape:window-width="1861"
      inkscape:window-height="1273"
-     inkscape:window-x="276"
-     inkscape:window-y="278"
+     inkscape:window-x="286"
+     inkscape:window-y="200"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,7 +72,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 12,11.5 0,4.5 0,4.5 9,-4.5 -9,-4.5 z"
+       d="M 11,10.5 11,16 11,21.5 22,16 11,10.5 Z"
        id="path12721"
        inkscape:export-filename="/work/media/mine/play-arrow-128.png"
        inkscape:export-xdpi="28.73"
@@ -80,16 +80,16 @@
     <rect
        style="fill:#1c8da9;fill-opacity:1;stroke:none;stroke-width:2.39527559;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3066"
-       width="2"
-       height="14"
-       x="22"
-       y="9" />
+       width="3"
+       height="16"
+       x="23"
+       y="8" />
     <rect
        style="fill:#1c8da9;fill-opacity:1;stroke:none;stroke-width:2.39527559;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3066-8"
-       width="2"
-       height="14"
-       x="8"
-       y="9" />
+       width="3"
+       height="16"
+       x="6"
+       y="8" />
   </g>
 </svg>
