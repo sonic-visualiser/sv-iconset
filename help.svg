@@ -14,7 +14,7 @@
    height="32"
    id="svg3360"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    viewBox="0 0 32 32"
    sodipodi:docname="help.svg"
    inkscape:export-filename="/home/cannam/code/sv-iconset/align24.png"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="17.57014"
+     inkscape:cx="6.876077"
      inkscape:cy="22.375103"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,15 +93,15 @@
        d="M 16.019942,5.4999995 A 10.38257,10.38257 0 0 1 26.464836,15.816346 10.38257,10.38257 0 0 1 16.152013,26.264719 10.38257,10.38257 0 0 1 5.7001623,15.955421 10.38257,10.38257 0 0 1 16.005934,5.5000933" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.95377922px;line-height:125%;font-family:Interstate-Black;-inkscape-font-specification:'Interstate-Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Interstate-Black;-inkscape-font-specification:'Interstate-Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="9.842391"
        y="23.472593"
        id="text4171"
-       sodipodi:linespacing="125%"
        transform="scale(1.025666,0.97497626)"><tspan
          sodipodi:role="line"
          id="tspan4173"
          x="9.842391"
-         y="23.472593">?</tspan></text>
+         y="23.472593"
+         style="font-size:19.95377922px;line-height:1.25">?</tspan></text>
   </g>
 </svg>
