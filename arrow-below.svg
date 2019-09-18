@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
+   width="18.597713"
+   height="17.083996"
    id="svg3360"
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   viewBox="0 0 32 32"
+   viewBox="0 0 18.597713 17.083996"
    sodipodi:docname="arrow-below.svg"
    inkscape:export-filename="/home/cannam/code/sv-iconset/cross-16.png"
    inkscape:export-xdpi="45"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.395604"
-     inkscape:cx="20.794737"
-     inkscape:cy="16"
+     inkscape:cx="2.642381"
+     inkscape:cy="6.5665399"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -51,7 +51,9 @@
        spacingx="0.5"
        spacingy="0.5"
        dotted="false"
-       empspacing="2" />
+       empspacing="2"
+       originx="-7.435967"
+       originy="-9.4334602" />
   </sodipodi:namedview>
   <metadata
      id="metadata3365">
@@ -61,14 +63,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-7.4359672,-5.4825434)">
     <path
        style="fill:#ef6a35;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.86246324px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
        d="m 15.78839,8.1349737 c -3.584599,2.5591113 -4.131147,4.1747853 -5.459834,7.5636773 l -2.4613817,-0.843729 2.3651227,7.280414 5.746093,-4.329453 -2.415063,-0.816987 c 0.816028,-1.893172 0.907574,-2.393359 3.041274,-5.010395 1.657534,-2.0330093 6.056802,-4.7479353 8.995271,-5.1606573 0.04358,-0.752341 -0.389431,-1.002342 -4.174439,-0.866036 -1.855238,0.132871 -4.20976,1.164203 -5.637043,2.183166 z"
